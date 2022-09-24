@@ -12,6 +12,7 @@ haar_output/
 mtcnn_output/
 cvlib_output/
 dnn_output/
+*.mov
 
 # IPython
 profile_default/
